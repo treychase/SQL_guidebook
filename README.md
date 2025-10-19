@@ -1,5 +1,7 @@
 # SQL Guidebook - Complete Documentation
 
+[![SQL Guidebook CI/CD](https://github.com/treychase/SQL_guidebook/actions/workflows/main.yml/badge.svg)](https://github.com/treychase/SQL_guidebook/actions/workflows/main.yml)
+
 ## 📖 Overview
 
 This SQL Guidebook is a comprehensive personal reference guide demonstrating advanced SQL queries using a real-world e-commerce database scenario. It covers essential SQL operations from basic queries to advanced window functions, CTEs, and complex joins.
